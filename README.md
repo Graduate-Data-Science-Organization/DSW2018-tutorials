@@ -3,3 +3,4 @@ Here are some of the materials used in the pre-workshop tutorials for the GDSO D
 
 * July 9: [SQL and pandas](sql-pandas)
 * July 10: [Git and Python environment troubleshooting](git) 
+* July 11: [Matplotlib](matplotlib)
