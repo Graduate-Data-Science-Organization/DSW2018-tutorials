@@ -1,0 +1,11 @@
+name: jpnbfgg
+channels:
+        - damianavila82
+dependencies:
+        - python=3.6
+        - matplotlib
+        - jupyter
+        - seaborn
+        - pandas
+        - ipywidgets
+        - rise
